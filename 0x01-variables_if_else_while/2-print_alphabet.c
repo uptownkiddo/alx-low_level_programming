@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stlib.h>
+#include <stdlib.h>
 
 /**
  * main - Entry point
@@ -16,6 +16,6 @@ int main(void)
 		a++;
 	}
 
-	putchar ("\n");
+	putchar ('\n');
 	return (0);
 }
