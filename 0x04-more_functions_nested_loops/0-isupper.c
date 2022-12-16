@@ -9,7 +9,7 @@ int _isupper(int c)
 {
 	int i;
 
-	for (i = 'A'; i <= 'Z'; 1++)
+	for (i = 'A'; i < 'Z'; 1++)
 	{
 		if (i == c)
 		{
