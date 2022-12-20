@@ -4,7 +4,8 @@
  * revstring - A function that reverses a string
  * @s: Te integer to be reversed
  * Return: nothing
- */void rev_string(char *s)
+ */
+void rev_string(char *s)
 {
 	int a = 0;
 	int b = 0;
